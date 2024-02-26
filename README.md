@@ -14,6 +14,7 @@ Since its an exe file, your computer and google drive might give you a lot of wa
 ## Controls
 
 A - left
+
 D - right
 
 W/Spacebar - jump
