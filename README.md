@@ -9,3 +9,11 @@ https://drive.google.com/file/d/1rrua4wjFl_QPHCggjd9Z9qSrS77Wou9a/view?usp=drive
 
 ### Note 
 Since its an exe file, your computer and google drive might give you a lot of warnings. But its 100% safe.
+
+
+## Controls
+
+A - left
+D - right
+
+W/Spacebar - jump
