@@ -17,4 +17,4 @@ A - left
 
 D - right
 
-W/Spacebar - jump
+W / Spacebar - jump
